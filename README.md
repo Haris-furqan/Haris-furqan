@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Haris-furqan
 - 👀 I’m interested in Web Development, Artificial Intelligence,AI Agents
-- 🌱 I’m currently learning React.js
-- 📫 How to reach me harisf692@gmail.com
+- 🌱 I’m currently learning Node.js and PostgreSQL
+- 📫How to reach me:harisf692@gmail.com
 
 
 <!---
